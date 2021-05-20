@@ -1,0 +1,21 @@
+body{
+    background-color: skyblue;
+}
+.music{
+    background-color: silver;
+margin-left: 35rem;
+margin-top: 10rem;
+border: 2px solid rgb(90, 86, 86);
+border-radius: 8px;
+width: 40vh;
+padding:18px;
+
+    
+    
+}
+audio{
+    width:20vw;
+}
+img{
+    width:20vw;
+}
